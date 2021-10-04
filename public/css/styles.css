@@ -35,13 +35,25 @@ img {
 }
 
 /* FOOTER */
-.footer-art {
+.footer-box {
 	margin-top: 50px;
 	text-align: center;
 }
 
 article i.fas {
-		color: #03264C;
-		font-size: 30 px;
+		color: #1259c3;
+		font-size: 30px;
+}
+
+article h4 {
+	color: #666;
+	padding: 0px 30px;
+	font-size: 16px;
+}
+
+ article p {
+	color: grey;
+	padding: 0px 30px;
+	font-size: 12px;
 }
 
